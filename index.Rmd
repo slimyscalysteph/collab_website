@@ -11,3 +11,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## This is my website
 
+
+Akhilesh Sharma
+```{r}
+
+
+knitr::include_graphics("https://cals.cornell.edu/sites/default/files/styles/faculty/public/2024-08/akilesh-sharma-headshot.png?h=748c68d3&itok=EFcP5RaU")
+
+```
